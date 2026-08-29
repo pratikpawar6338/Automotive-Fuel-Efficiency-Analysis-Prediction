@@ -1,4 +1,4 @@
-# Mpg-linear-regression
+# Miles-Per-Gallon-linear-regression
 
 Built an end-to-end machine learning project to analyze and predict vehicle fuel efficiency (MPG) using the Auto MPG dataset.
 
