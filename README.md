@@ -56,6 +56,14 @@ The notebook loads the dataset through Seaborn and falls back to the UCI raw dat
 - Average and median MPG by origin
 - Actual-versus-predicted values and residual analysis
 
+<img width="1327" height="351" alt="image" src="https://github.com/user-attachments/assets/4765f3be-8688-466d-a28b-4e1adb60b0ed" />
+
+<img width="881" height="592" alt="image" src="https://github.com/user-attachments/assets/ef1a368a-ac7b-485d-a945-1efdb987bd6a" />
+
+<img width="1105" height="419" alt="image" src="https://github.com/user-attachments/assets/ca1368d1-3684-4020-be15-76b8d853e6b5" />
+
+<img width="1099" height="452" alt="image" src="https://github.com/user-attachments/assets/bf5baea7-fb87-471c-8da2-5da5f79ece2d" />
+
 ## Model Evaluation
 
 The notebook reports:
@@ -107,7 +115,6 @@ Use the generated charts and summary tables in the notebook to identify patterns
 - The dataset does not represent today's vehicle technologies or driving conditions.
 - Further validation is required before using predictions in real-world decisions.
 
-<img width="1327" height="351" alt="image" src="https://github.com/user-attachments/assets/988c7701-2636-42f6-803d-4b16edff5fb5" />
 
 ## Author
 
