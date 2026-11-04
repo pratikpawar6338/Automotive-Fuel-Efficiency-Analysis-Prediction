@@ -84,23 +84,6 @@ The notebook calculates these values when executed. They are intentionally not h
 └── README.md
 ```
 
-## How to Run
-
-1. Clone or download this repository.
-2. Install the required packages:
-
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-   ```
-
-3. Open the notebook:
-
-   ```bash
-   jupyter notebook
-   ```
-
-4. Run `Automotive_Fuel_Efficiency_Analysis.ipynb` from top to bottom.
-
 ## Findings & Interpretation
 
 Use the generated charts and summary tables in the notebook to identify patterns in this sample. In particular, review how MPG varies with vehicle weight and horsepower and how average MPG differs by origin.
