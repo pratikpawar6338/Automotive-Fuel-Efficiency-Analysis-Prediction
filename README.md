@@ -107,13 +107,7 @@ Use the generated charts and summary tables in the notebook to identify patterns
 - The dataset does not represent today's vehicle technologies or driving conditions.
 - Further validation is required before using predictions in real-world decisions.
 
-## Future Improvements
-
-- Add cross-validation for more stable model evaluation.
-- Compare Linear Regression with Random Forest and other regression models.
-- Explore feature engineering and nonlinear relationships.
-- Build a Power BI dashboard to present the EDA findings.
-- Validate using a more recent vehicle dataset.
+<img width="1327" height="351" alt="image" src="https://github.com/user-attachments/assets/988c7701-2636-42f6-803d-4b16edff5fb5" />
 
 ## Author
 
